@@ -1,0 +1,6 @@
+name: TestProject
+version: '1.0.0'
+main: barbary.testproject.TestProject
+api-version: '1.16'
+commands:
+  admin:
